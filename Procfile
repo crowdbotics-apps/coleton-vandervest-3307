@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT coleton_vandervest_3307.wsgi:application
